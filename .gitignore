@@ -1,0 +1,5 @@
+.env
+*.db
+.idea
+.DS_Store
+__pycache__/forms.cpython-311.pyc
